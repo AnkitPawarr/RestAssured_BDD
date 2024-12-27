@@ -14,6 +14,14 @@ public class Base {
     public Properties prop;
     public static String baseURI;
 
+    public final static String userListPage = "/api/users?page=";
+    public final static String user = "/api/users?page=";
+    public final static String createUser = "/api/users";
+    public final static String updateUser = "/api/users/";
+    public final static String registerUser = "/api/register";
+    public final static String loginUser = "/api/login";
+    public final static String delayedResposne = "/api/users?delay=";
+
     private String fetchParameter(String parameterName, String defaultValue) {
         String value = System.getProperty(parameterName);
         if (value != null) {
