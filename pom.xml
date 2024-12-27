@@ -73,7 +73,6 @@
             <groupId>io.rest-assured</groupId>
             <artifactId>json-path</artifactId>
             <version>${rest.assured.version}</version>
-            <scope>test</scope>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/io.rest-assured/xml-path -->
@@ -102,7 +101,6 @@
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
             <version>${cucumber.java.version}</version>
-            <scope>test</scope>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
