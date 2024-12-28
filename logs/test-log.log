@@ -1,0 +1,102 @@
+2024-12-28 08:29:11 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 08:29:11 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 08:29:11 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:00:10 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 09:00:10 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 09:00:10 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:01:29 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 09:01:29 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 09:01:29 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:42:27 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 09:42:27 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 09:42:27 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:44:44 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 09:44:44 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 09:44:44 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:45:20 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 09:45:20 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 09:45:20 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:49:30 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 09:49:30 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 09:49:30 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:53:20 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 09:53:20 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 09:53:20 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:53:22 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 09:53:22 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 09:53:22 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 09:53:22 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 09:53:22 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 09:53:22 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 09:53:22 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:24:09 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:24:09 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:24:09 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:24:09 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:24:09 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:24:09 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:24:10 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:24:11 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:24:11 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:24:11 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:24:11 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:24:11 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:24:11 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:25:25 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:25:25 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:25:25 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:25:30 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:25:30 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:25:30 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:25:30 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:25:31 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:25:31 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:25:31 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:25:31 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:25:31 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:25:31 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:52:24 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:52:24 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:52:24 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:52:29 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:52:29 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:52:29 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:52:29 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:52:29 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:52:29 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:52:29 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:52:29 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:52:30 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:52:30 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:53:38 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:53:38 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:53:38 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:53:43 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:53:43 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:53:43 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:53:43 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:53:44 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:54:27 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:54:27 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:54:27 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in

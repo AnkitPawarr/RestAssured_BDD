@@ -101,9 +101,9 @@ public class RestResources {
                 .extract().response().asPrettyString();
     }
 
-    public void doVerifyResponseTime(Response response) {
+    public void doVerifyResponseTime(Response response, Long milliseconds) {
         response.then().log().all()
-                .time(lessThanOrEqualTo(200L), TimeUnit.MICROSECONDS);
+                .time(lessThanOrEqualTo(milliseconds), TimeUnit.MICROSECONDS);
         /*We can use lessThan() method as well
          The time should be in Long and not an Integer */
 
