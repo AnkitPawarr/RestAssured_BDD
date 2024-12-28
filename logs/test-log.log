@@ -100,3 +100,24 @@
 2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Initiating Properties.
 2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
 2024-12-28 10:54:33 [main] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 12:39:19 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 12:39:19 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 12:39:19 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 12:39:23 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 12:39:23 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 12:39:23 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 12:39:23 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - User is on the same page as expected.
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Initiating Properties.
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Running Test suite on ENV: sit
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Base URI is: https://reqres.in
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Status code is as expected.
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - NAME IS - ANKIT
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - JOB IS - SDET
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - User Name is as expected.
+2024-12-28 12:39:24 [TestNG-test-Surefire test-1] INFO  com.restAssured.hooks.Base - Job is as expected.
